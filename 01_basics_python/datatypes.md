@@ -1,0 +1,15 @@
+# Object Types/Data Types
+- Number : 1234, 3.14, 3+4j ,0b111,Decimal(),Fraction()
+- String : 'spam',"Bobs",b'a\x01c',u'sp\xc4m'
+- List : [1,[2, 'three'], 4.5 ]
+- Tuple : (1, 'two', 3.0)
+- Dictionary : {'food': 'Spam', 'quantity': 4, 'color': 'pink'}
+- Set : {1, 2, 3, 4}
+- File : open('data.txt')
+- boolean : True, False
+- NoneType : None
+- Function,module,class,method
+- Advanced Data Types :
+    - Decorators
+    - Generators
+    - Iterators
