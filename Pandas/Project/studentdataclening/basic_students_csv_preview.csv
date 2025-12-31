@@ -1,9 +1,0 @@
-student_id,name,age,gender,math_score,english_score,passed
-1,Aman,17.0,M,78.0,72.0,yes
-2,Priya,18.0,F,85.0,80.0,yes
-3,Vikram,17.0,M,92.0,85.0,yes
-4,Neha,18.0,F,,90.0,yes
-5,Rohit,17.0,M,67.0,,no
-6,Sana,,F,74.0,70.0,yes
-7,Arjun,18.0,M,88.0,82.0,yes
-8,Tara,17.0,F,95.0,88.0,yes
